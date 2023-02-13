@@ -25,6 +25,9 @@
 
  <!-- CSS3 -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <!-- SASS --> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <!--Tailwind --> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  <!--CHAKRA --> <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png" alt="chakra-ui" width="auto" height="40"/> </a>
+ 
+<!-- WEB3 -->
+<!-- Moralis --><a href="https://moralis.io/" target="_blank" rel="noreferrer"> <img src="https://moralis.io/wp-content/uploads/2023/01/moralisLogoBrand2.png" alt="moralis web3" width="40" height="40"/>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajeetgill&show_icons=true&locale=en&layout=compact" alt="ajeetgill" /></p>
