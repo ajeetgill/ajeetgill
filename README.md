@@ -10,6 +10,9 @@
 <a href="https://twitter.com/ajeet_gill_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajeet_gill_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ajeet-gill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a" height="30" width="40" /></a>
 
+<h3 align="left">Web3 technologies:</h3>
+<p align="left">  <!-- Wagmi --> <a href="https://wagmi.sh/" target="_blank" rel="noreferrer">Wagmi.sh <img style="max-width: 100%;background: white !important;padding: .1rem .5rem;" src="https://raw.githubusercontent.com/wagmi-dev/.github/main/content/logo-light.svg" alt="wagmi.sh" height="40"/> </a> <!-- Moralis --> <a href="https://moralis.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/MoralisWeb3/Moralis-JS-SDK/raw/main/assets/moralis-logo.svg" alt="Moralis" height="40"/> </a>  
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <!-- C++ --> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <!-- Firebase --> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  
 <!-- HTML5 -->
