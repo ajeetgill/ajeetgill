@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajeet Singh Gill</h1>
 <h3 align="center">Frontend developer+designer</h3>
 
-- 🌱 I’m currently everything JS (nodejs, react, typescript), even the weird js
+- 🌱 I’m currently everything JS (nodejs, react, typescript), even the weird parts of js
 
 - ⚡ Fun fact **I write jokes too**
 
