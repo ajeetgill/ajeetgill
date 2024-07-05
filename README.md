@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/ajeet-gill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a" height="30" width="40" /></a>
 
 <h3 align="left">Web3 technologies:</h3>
-<p align="left">  <!-- Wagmi --> <a href="https://wagmi.sh/" target="_blank" rel="noreferrer">Wagmi.sh <img style="max-width: 100%;background: white !important;padding: .1rem .5rem;" src="https://raw.githubusercontent.com/wagmi-dev/.github/main/content/logo-light.svg" alt="wagmi.sh" height="40"/> </a> 
+<p align="left">  <!-- Wagmi --> <a href="https://wagmi.sh/" target="_blank" rel="noreferrer">Wagmi.sh <img style="max-width: 100%;background: white !important;padding: .1rem .5rem;" src="https://wagmi.sh/logo-dark.svg" alt="wagmi.sh" height="40"/> </a> 
 <!-- Moralis --> , <a href="https://moralis.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/MoralisWeb3/Moralis-JS-SDK/raw/main/assets/moralis-logo.svg" alt="Moralis" height="40"/>Moralis </a>  
 
 <h3 align="left">Languages and Tools:</h3>
