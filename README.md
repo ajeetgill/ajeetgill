@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ajeet Singh Gill</h1>
+<h1 align="center">Hi 👋, AJ here</h1>
 <h3 align="center">Frontend developer+designer</h3>
 
 - 🌱 Weirdness of JS makes sense, studied UX/UI, FSMs - Complexity Theory, currently diving into ML/AI
