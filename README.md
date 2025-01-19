@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, AJ here</h1>
-<h3 align="center">Frontend developer+designer</h3>
+<h3 align="center">Compulsary Label Fullstack developer, though I like Problem Solver</h3>
 
 - 🌱 Weirdness of JS makes sense, studied UX/UI, FSMs - Complexity Theory, currently diving into ML/AI
 
-- ⚡ Side Quests: **Standup comedian, & hobbyist 🎱Pool player**
+- ⚡ Side Quests: **Standup comedian, & hobbyist 🎱 Pool, 🏓 Table-Tennis player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
